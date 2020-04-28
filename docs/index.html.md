@@ -6,6 +6,6 @@
 
 ![説明文]( ./a.png "ポップアップ文字") 
 
-[testページ](./) 
+[testページ](./test.html.md) 
 
  [ぐぐる](https://www.google.co.jp/)
