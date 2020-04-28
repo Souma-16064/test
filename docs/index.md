@@ -6,4 +6,4 @@
 
 [testページ](./test.html) 
 
- [リンクの文字](https://www.google.co.jp/)
+ [ぐぐる](https://www.google.co.jp/)
